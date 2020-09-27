@@ -1,0 +1,1 @@
+<footer><p>Eu sou o footer do site</p></footer>
